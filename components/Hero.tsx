@@ -59,13 +59,13 @@ export default function Hero() {
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-2xl overflow-hidden border border-brand-border bg-brand-surface p-4 shadow-2xl">
               <img
-                src="https://cdn.shopify.com/s/files/1/0679/5608/0711/files/61SMxEJQ0rL._AC_UF1000_1000_QL80.jpg?v=1792410421"
-                alt="Support 70mai T800"
+                src="https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80"
+                alt="70mai Maroc Dashcam Omni 360° 4K HDR"
                 className="w-full aspect-video object-cover rounded-xl"
               />
               <div className="mt-4 p-3 rounded-lg bg-brand-bg/80 border border-brand-border font-mono text-xs flex justify-between items-center">
                 <span className="text-brand-muted">Modèle Phare:</span>
-                <span className="text-brand-accent font-bold">199 DH</span>
+                <span className="text-brand-accent font-bold">1490 DH</span>
               </div>
             </div>
           </div>
